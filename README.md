@@ -1,4 +1,4 @@
-# Azure-Aztec.
+# Aztec-Azure.
 This is an anti-ad for a fictional company 'Azure-Aztec'. 
 
 ## Technologies.
