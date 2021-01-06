@@ -1,5 +1,5 @@
 # Aztec-Azure.
-This is an anti-ad for a fictional company 'Azure-Aztec'. 
+This is a site for a fictional company 'Azure-Aztec'. 
 
 ## Technologies.
 -HTML
